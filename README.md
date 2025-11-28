@@ -6,7 +6,7 @@
 
 ---
 
-## 🖤 About Me
+## About Me
 I'm a developer who enjoys building clean, scalable backend systems and exploring modern frameworks.  
 Recently, I'm deep-diving into **Next.js**, **microservices**, and **database architecture**.
 
