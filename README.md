@@ -68,20 +68,18 @@ A sleek task manager exploring:
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true)
+<!-- GitHub Stats -->
+![Stats](https://github-readme-stats.vercel.app/api?username=aleenamolroy&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
+<!-- Most Used Languages -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aleenamolroy&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
-> **Replace `YOUR_USERNAME` with your GitHub username.**
-
----
 
 ## 📫 Connect With Me
-- **LinkedIn:** your link  
-- **Portfolio:** your link  
-- **Email:** your email  
+- **LinkedIn:** www.linkedin.com/in/aleenamol-roy  
+- **Email:** aleenamolroy02@gmail.com 
 
 ---
 
