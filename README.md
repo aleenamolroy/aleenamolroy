@@ -1,6 +1,6 @@
 <!-- Banner -->
 <div align="center">
-  <h1>🌙 Aleena Roy</h1>
+  <h1>Aleena Roy</h1>
   <p><strong>Backend-Focused Developer | Learning Next.js & Microservices</strong></p>
 </div>
 
