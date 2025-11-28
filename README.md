@@ -1,7 +1,7 @@
 <!-- Banner -->
 <div align="center">
   <h1>Aleena Roy</h1>
-  <p><strong>Backend-Focused Developer | Learning Next.js & Microservices</strong></p>
+  <p><strong>Fullstack Developer | MERN Stack Developer</strong></p>
 </div>
 
 ---
