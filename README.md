@@ -1,55 +1,90 @@
-<h1 align="center">Hi, I'm Aleena</h1>
-<h3 align="center">Fullstack Developer</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aleenamolroy&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
-</p>
-
----
-
-### 🚀 About Me  
-- 🔭 Currently building a **Headless E-commerce Platform**  
-- 📫 Reach me at **aleenamolroy02@gmail.com**  
-- 📄 View my resume:  
-  [Resume Link](https://drive.google.com/file/d/1xN3SSz9DSvopxh0okDxzGnoXcDja51yL/view?usp=drive_link)
+<!-- Banner -->
+<div align="center">
+  <h1>🌙 Aleena Roy</h1>
+  <p><strong>Backend-Focused Developer | Learning Next.js & Microservices</strong></p>
+</div>
 
 ---
 
-### 🌐 Connect With Me  
-<p>
-  <a href="https://www.linkedin.com/in/aleenamol-roy" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
-  </a>
-  <a href="https://leetcode.com/u/lioq7ekabp/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40"/>
-  </a>
-</p>
+## 🖤 About Me
+I'm a developer who enjoys building clean, scalable backend systems and exploring modern frameworks.  
+Recently, I'm deep-diving into **Next.js**, **microservices**, and **database architecture**.
 
 ---
 
-### 🛠️ Languages & Tools  
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aws/aws-original.svg" width="40" height="40"/>
-</p>
+## ⚡ Tech Stack
+
+### **Languages**
+![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=typescript)
+
+### **Backend**
+![Node.js](https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=nodedotjs)
+![Express](https://img.shields.io/badge/Express.js-black?style=for-the-badge&logo=express)
+
+### **Frontend**
+![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=nextdotjs)
+
+### **Databases**
+![MongoDB](https://img.shields.io/badge/MongoDB-black?style=for-the-badge&logo=mongodb)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-black?style=for-the-badge&logo=amazondynamodb)
+![MySQL](https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=mysql)
+
+### **Tools**
+![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
+![Docker](https://img.shields.io/badge/Docker-black?style=for-the-badge&logo=docker)
+![Postman](https://img.shields.io/badge/Postman-black?style=for-the-badge&logo=postman)
 
 ---
 
-### 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aleenamolroy&show_icons=true&locale=en&layout=compact"/>
-</p>
+## 🧠 Currently Learning
+- Next.js (Server Components, Routing, ISR/SSG/SSR)
+- Microservice Architecture
+- API Gateway patterns
+- Database schema design
+- Headless E-Commerce concepts
+
+---
+
+## 📝 Featured Projects
+
+### **Task Tracker (Next.js)**
+A sleek task manager exploring:
+- Server Components  
+- CSR / SSR / SSG / ISR  
+- Dynamic routing  
+- App router & API routes  
+
+### **Headless E-Commerce (Work in Progress)**
+- Microservice-based backend  
+- Product, Order, Review services  
+- MongoDB + DynamoDB hybrid design  
+- Future Elasticsearch caching/search layer  
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
+
+> **Replace `YOUR_USERNAME` with your GitHub username.**
+
+---
+
+## 📫 Connect With Me
+- **LinkedIn:** your link  
+- **Portfolio:** your link  
+- **Email:** your email  
+
+---
+
+<div align="center">
+  <sub>✨ Minimal Dark | Clean | Aesthetic ✨</sub>
+</div>
